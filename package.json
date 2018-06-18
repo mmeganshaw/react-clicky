@@ -2,7 +2,9 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://mmeganshaw.github.io/react-clicky",
   "dependencies": {
+    "bootstrap": "^4.1.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
